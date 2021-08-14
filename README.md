@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GISRS-academy
 - 👀 I’m interested in Google earth engine 
-- 🌱 I’m currently learning .machine learnng algorithms 
+- 🌱 I’m currently learning .machine learnng algorithms in GEE
 - 💞️ I’m looking to collaborate on GEE applications 
 - 📫 How to reach me amindika.kks@gmail.com
 
